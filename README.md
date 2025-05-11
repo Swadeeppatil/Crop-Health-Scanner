@@ -1,7 +1,12 @@
 # Crop-Health-Scanner
 Develop a Python-based mobile or web application that allows farmers to scan crops using smartphone cameras and detect signs of pest damage, disease, or nutrient deficiencies.The app analyzes images, identifies issues, and provides actionable advice (e.g., “Apply neem oil for aphids” or “Add nitrogen fertilizer”). It’s designed to be affordable, user-friendly, and work offline for rural areas with limited internet.
 
+C:/Users/swade/Videos/Screen Recordings/Screen Recording 2025-05-11 212304.mp4
+
+
+
 use this application:
+
 
 1. Install required packages:
    pip install tensorflow opencv-python pillow
